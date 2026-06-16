@@ -4,7 +4,7 @@ Companion tool for the paper **"The Golden Octave: Why the Fibonacci Ring's Dial
 
 **▶ Run it live:** https://nealstrassner.github.io/golden-octave-calculator/
 
-**📄 The Cosine Ruler & Selection Law (OSF):** https://osf.io/n5pwt/files/yt85h
+**📄 The Cosine Ruler & Selection Law (OSF):** https://osf.io/n5pwt/files/y6w7e
 
 ---
 
